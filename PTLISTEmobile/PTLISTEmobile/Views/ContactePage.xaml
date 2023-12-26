@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PTLISTEmobile.Views.ContactePage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="btnAdd_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="listContacts">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Grid.RowSpan="2" Grid.Column="0" Source="{Binding imageSource}"/>
+                                <Label Grid.Row="0" Grid.Column="1" Text="{Binding name}" FontAttributes="Bold"/>
+                                <Label Grid.Row="1" Grid.Column="1" Text="{Binding statut}"/>
+                            </Grid>
+                            
+                            <ViewCell.ContextActions>
+                                <MenuItem x:Name="btnbAfficher"
+                                          Text="details"
+                                          Clicked="BtnAfficher_Clicked"
+                                          CommandParameter="{Binding .}"/>
+                                
+                                <MenuItem x:Name="btnbEdit"
+                                          Text="details"
+                                          Clicked="btnEdit_Clicked"
+                                          CommandParameter="{Binding .}"/>
+
+                                <MenuItem x:Name="btnbDelete"
+                                          Text="supprimer"
+                                          Clicked="BtnDelete_Clicked"
+                                          CommandParameter="{Binding .}"/>
+
+                            </ViewCell.ContextActions>
+                            
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+            <!--<Button x:Name="btnAdd" Clicked="btnAdd_Clicked" Text="Nouveau Contact" VerticalOptions="EndAndExpand"/>-->
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

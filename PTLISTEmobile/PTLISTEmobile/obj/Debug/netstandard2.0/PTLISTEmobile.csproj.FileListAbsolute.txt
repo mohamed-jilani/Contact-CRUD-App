@@ -1,0 +1,17 @@
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\bin\Debug\netstandard2.0\PTLISTEmobile.deps.json
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\bin\Debug\netstandard2.0\PTLISTEmobile.dll
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\bin\Debug\netstandard2.0\ref\PTLISTEmobile.dll
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\bin\Debug\netstandard2.0\PTLISTEmobile.pdb
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.csproj.AssemblyReference.cache
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\Views\ContactePage.xaml.g.cs
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.AssemblyInfoInputs.cache
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.AssemblyInfo.cs
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.dll
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\ref\PTLISTEmobile.dll
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\PTLISTEmobile.pdb
+C:\Users\mohamed\Desktop\XAMARIN\PTLISTEmobile\PTLISTEmobile\PTLISTEmobile\obj\Debug\netstandard2.0\Views\AjoutContact.xaml.g.cs

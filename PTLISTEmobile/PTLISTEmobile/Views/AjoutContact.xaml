@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PTLISTEmobile.Views.AjoutContact">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <TableView>
+
+                <TableRoot>
+                    <TableSection>
+                        <EntryCell x:Name="txtNom" Label="Nom"/>
+                        <EntryCell x:Name="txtStatut" Label="Statut"/>
+                        <EntryCell x:Name="txtImage" Label="Image"/>
+                        
+                    </TableSection>
+                </TableRoot>
+                
+            </TableView>
+            <Button x:Name="btnAdd" Clicked="btnAdd_Clicked" Text="Ajouter" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
